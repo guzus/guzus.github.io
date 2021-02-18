@@ -102,7 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "localhost:4000/guzus@naver.com"
+      url: "mailto:awesomepulsar@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://blog.naver.com/guzus"
