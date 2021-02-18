@@ -106,7 +106,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://blog.naver.com/guzus"
-    - label: "네이버 블로그"
+    - label: "guzus의 쓰레기공장"
       icon: "fas fa-fw fa-link"
       url: "https://blog.naver.com/guzus"
     - label: "Quickest Tutorials"
