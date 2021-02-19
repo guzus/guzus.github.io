@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "guzus"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Dancing ninja @home"
   location         : "Seoul"
   email            :
