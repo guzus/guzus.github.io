@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "Welcome to guzus blog"
+date: 2021-02-24 08:26:28 -0400
+categories: nothing
 ---
-hi!
+It's a nice day
